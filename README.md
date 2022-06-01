@@ -2,7 +2,7 @@
 
 [BakkesMod](https://bakkesmod.org/) is a Rocket League mod that offers an array of new features and options for players to enjoy. The mod was created by Bakkes, a well-known Rocket League modder, and it has quickly become one of the most popular mods available.
 
-[!Download button](https://i.ibb.co/kx4Wbb0/Download-Now-Button.png)](https://bakkesmod.org/download/)
+[![Download button](https://i.ibb.co/kx4Wbb0/Download-Now-Button.png)](https://bakkesmod.org/download/)
 
 Some of the features that are included in BakkesMod are: ball trails, goal explosions, new game types, announcer voices, and more. Additionally, the mod allows players to customize a variety of settings, including match length, ball size, gravity, and more.
 
