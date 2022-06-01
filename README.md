@@ -1,4 +1,4 @@
-## About BakkesMod
+## BakkesMod Rocket League Trainer
 
 [BakkesMod](https://bakkesmod.org/) is a Rocket League mod that offers an array of new features and options for players to enjoy. The mod was created by Bakkes, a well-known Rocket League modder, and it has quickly become one of the most popular mods available.
 
